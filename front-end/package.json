@@ -1,0 +1,33 @@
+{
+  "name": "react-tsparticles",
+  "version": "1.0.0",
+  "homepage": "http://chat.veasleypg.com/",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "react": "17.0.2",
+    "react-chatbot-kit": "^2.1.2",
+    "react-dom": "17.0.2",
+    "react-scripts": "3.0.1",
+    "react-tsparticles": "^1.42.1",
+    "react-util-kit": "^0.0.15"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
